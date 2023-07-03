@@ -1,0 +1,103 @@
+body{
+    padding-top: 0px;
+ padding-left: 29px;
+ margin-top: 0px;
+    
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 31px 846px 89px 54px;
+    justify-content: center;
+    width:1200px;
+    height: 45px;
+    background-color: rgb(120, 118, 118);
+    flex-wrap: wrap;
+}
+
+.container a img{
+    width:30px;
+    height: 30px;
+}
+
+.container2{
+    height: 532px;
+    width: 289px;
+    background-color:#5b5858;
+}
+.container3{
+ height: 188px;
+    width: 911px;
+    background-color:#3b3a3a;
+    position: relative;
+    left: 289px;
+    top: -532px;
+    display: flex;
+    flex-direction: row;
+    
+    overflow: scroll;
+
+}
+ .songBox{
+    height: 150px;
+    width: 150px;
+   /* background-color: red;*/
+    margin: 5px 5px;
+    /*border: 5px solid  green;*/
+}
+.container3 img{
+    height: 150px;
+    width: 150px;
+}
+
+
+.container4{
+    height: 188px;
+       width: 911px;
+       background-color:#3b3a3a;
+       position: relative;
+       left: 289px;
+       top: -547px;
+       display: flex;
+       flex-direction: row;
+       
+       overflow: scroll;
+   
+   }
+    /*.songBox{
+       height: 150px;
+       width: 150px;
+       background-color: red;
+       margin: 5px 5px;
+       border: 5px solid  green;
+   }*/
+   .container4 img{
+       height: 150px;
+       width: 150px;
+   }
+
+   .container5{
+    height: 188px;
+       width: 911px;
+       background-color:#3b3a3a;
+       position: relative;
+       left: 289px;
+       top: -563px;
+       display: flex;
+       flex-direction: row;
+       
+       overflow: scroll;
+   
+   }
+    /*.songBox{
+       height: 150px;
+       width: 150px;
+       background-color: red;
+       margin: 5px 5px;
+       border: 5px solid  green;
+   }*/
+   .container5 img{
+       height: 150px;
+       width: 150px;
+   }
+
